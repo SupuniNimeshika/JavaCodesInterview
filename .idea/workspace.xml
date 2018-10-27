@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CheckLeapYearorNot.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CheckOriginalEqualsReverseorNot.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="AddNNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AddNNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CheckAlphabet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckAlphabet.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,11 +115,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckLeapYearorNot.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CheckLeapYearorNot.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CheckLeapYearorNot.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="61" lean-forward="false" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+            <state relative-caret-position="138">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckOriginalEqualsReverseorNot.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CheckOriginalEqualsReverseorNot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -177,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/CalculateGradeofStudents.java" />
         <option value="$PROJECT_DIR$/src/CheckEvenOrOdd.java" />
         <option value="$PROJECT_DIR$/src/CheckLeapYearorNot.java" />
+        <option value="$PROJECT_DIR$/src/CheckOriginalEqualsReverseorNot.java" />
       </list>
     </option>
   </component>
@@ -913,8 +914,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CheckLeapYearorNot.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="61" lean-forward="false" selection-start-line="3" selection-start-column="61" selection-end-line="3" selection-end-column="61" />
+        <state relative-caret-position="138">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckOriginalEqualsReverseorNot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
           <folding />
         </state>
       </provider>
