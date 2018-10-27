@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AddDigitOfNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CalculateAreaAndCircumferenceOfCircle.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="FactorialValue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactorialValue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RaisedToThePower.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RaisedToThePower.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,11 +115,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddDigitOfNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddDigitOfNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AddDigitOfNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+            <state relative-caret-position="357">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculateAreaAndCircumferenceOfCircle.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CalculateAreaAndCircumferenceOfCircle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -170,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/AddNNumbers.java" />
         <option value="$PROJECT_DIR$/src/CheckAlphabet.java" />
         <option value="$PROJECT_DIR$/src/AddDigitOfNumber.java" />
+        <option value="$PROJECT_DIR$/src/CalculateAreaAndCircumferenceOfCircle.java" />
       </list>
     </option>
   </component>
@@ -836,8 +837,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AddDigitOfNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CalculateAreaAndCircumferenceOfCircle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="73" lean-forward="false" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
           <folding />
         </state>
       </provider>
