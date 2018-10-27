@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FactorialofaNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,18 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="ArithmeticMeanOrAverage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArithmeticMeanOrAverage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="AverageAndPercentageMarks.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AverageAndPercentageMarks.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,11 +115,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FactorialofaNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FactorialofaNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FactorialofaNumber.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindHCFAndLCMofTwoNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+              <caret line="4" column="64" lean-forward="false" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -182,6 +182,7 @@
         <option value="$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java" />
         <option value="$PROJECT_DIR$/src/CountPositiveNegativeandZero.java" />
         <option value="$PROJECT_DIR$/src/FactorialofaNumber.java" />
+        <option value="$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java" />
       </list>
     </option>
   </component>
@@ -968,8 +969,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FactorialofaNumber.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="49" lean-forward="false" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <caret line="4" column="64" lean-forward="false" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
           <folding />
         </state>
       </provider>
