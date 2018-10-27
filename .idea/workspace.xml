@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AddNNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CheckAlphabet.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,16 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="sumOfFirst10NaturalNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sumOfFirst10NaturalNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MultiplicationTable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MultiplicationTable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,11 +115,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddNNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AddNNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AddNNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckAlphabet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CheckAlphabet.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+              <caret line="4" column="81" lean-forward="false" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -166,6 +168,7 @@
         <option value="$PROJECT_DIR$/src/HCFGivenTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/SumDisplayed.java" />
         <option value="$PROJECT_DIR$/src/AddNNumbers.java" />
+        <option value="$PROJECT_DIR$/src/CheckAlphabet.java" />
       </list>
     </option>
   </component>
@@ -812,8 +815,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AddNNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckAlphabet.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="62" lean-forward="false" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
+          <caret line="4" column="81" lean-forward="false" selection-start-line="4" selection-start-column="81" selection-end-line="4" selection-end-column="81" />
           <folding />
         </state>
       </provider>
