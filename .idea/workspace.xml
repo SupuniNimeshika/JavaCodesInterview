@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/PerformanceTestofStringandStringBuffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/StringandStringBufferHashCodeTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/StringFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/TestStringFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/toString/Student.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java" afterPath="$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/FactorialofaNumber.java" afterPath="$PROJECT_DIR$/src/FactorialofaNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,61 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="ConvertFahrenheittoCentigrade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="e#0#765#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="FactorialofaNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FactorialofaNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindHCFAndLCMofTwoNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestofThreeNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LargestofThreeNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="23" column="9" lean-forward="false" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InterchangeTwoNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/InterchangeTwoNumbers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MakeCalculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MakeCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MathematicalOperations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MathematicalOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+            <state relative-caret-position="147">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -112,11 +80,51 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringandStringBufferHashCodeTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringandStringBufferHashCodeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/StringandStringBufferHashCodeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+            <state relative-caret-position="378">
+              <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/String/toString/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringFormatter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/StringFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestStringFormatter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/TestStringFormatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseIteration.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -164,9 +172,7 @@
         <option value="$PROJECT_DIR$/src/CheckLeapYearorNot.java" />
         <option value="$PROJECT_DIR$/src/CheckOriginalEqualsReverseorNot.java" />
         <option value="$PROJECT_DIR$/src/CheckVowelorNot.java" />
-        <option value="$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java" />
         <option value="$PROJECT_DIR$/src/CountPositiveNegativeandZero.java" />
-        <option value="$PROJECT_DIR$/src/FactorialofaNumber.java" />
         <option value="$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/LargestofThreeNumbers.java" />
         <option value="$PROJECT_DIR$/src/InterchangeTwoNumbers.java" />
@@ -175,6 +181,14 @@
         <option value="$PROJECT_DIR$/src/ReverseNumber.java" />
         <option value="$PROJECT_DIR$/src/SwapTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/String/PerformanceTestofStringandStringBuffer.java" />
+        <option value="$PROJECT_DIR$/src/String/StringandStringBufferHashCodeTest.java" />
+        <option value="$PROJECT_DIR$/src/String/toString/ProblemWithoutMethod.java" />
+        <option value="$PROJECT_DIR$/src/String/toString/Student.java" />
+        <option value="$PROJECT_DIR$/src/String/Methods/ReverseString/StringFormatter.java" />
+        <option value="$PROJECT_DIR$/src/String/Methods/ReverseString/TestStringFormatter.java" />
+        <option value="$PROJECT_DIR$/src/FactorialofaNumber.java" />
+        <option value="$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java" />
+        <option value="$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java" />
       </list>
     </option>
   </component>
@@ -254,6 +268,50 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="String" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="toString" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="String" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ReverseString" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JavaCodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -280,37 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HCFGivenTwoNumbers">
-    <configuration default="false" name="RaisedToThePower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="RaisedToThePower" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaCodes" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="DigitReversed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="DigitReversed" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaCodes" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseIteration">
     <configuration default="false" name="SumOfEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="SumOfEvenOdd" />
@@ -344,6 +372,46 @@
     <configuration default="false" name="HCFGivenTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="HCFGivenTwoNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaCodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestStringFormatter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="String.Methods.ReverseString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="String.Methods.ReverseString.TestStringFormatter" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaCodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ReverseIteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="String.Methods.ReverseString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="String.Methods.ReverseString.ReverseIteration" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -561,19 +629,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RaisedToThePower" />
-      <item index="1" class="java.lang.String" itemvalue="Application.DigitReversed" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SumOfEvenOdd" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PrimeNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Application.HCFGivenTwoNumbers" />
+      <item index="0" class="java.lang.String" itemvalue="Application.SumOfEvenOdd" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PrimeNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HCFGivenTwoNumbers" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestStringFormatter" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ReverseIteration" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.HCFGivenTwoNumbers" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PrimeNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SumOfEvenOdd" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DigitReversed" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RaisedToThePower" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ReverseIteration" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestStringFormatter" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HCFGivenTwoNumbers" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PrimeNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Application.SumOfEvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -606,15 +674,16 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868758" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827103" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33060747" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33060747" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27351353" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -628,7 +697,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -645,38 +713,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FindHCFAndLCMofTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LargestofThreeNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="23" column="9" lean-forward="true" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/InterchangeTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MakeCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MathematicalOperations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -927,25 +963,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="1" lean-forward="false" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CountPositiveNegativeandZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FactorialofaNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
@@ -1019,8 +1039,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/String/StringandStringBufferHashCodeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="46" lean-forward="false" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        <state relative-caret-position="378">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/toString/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/StringFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FactorialofaNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertFahrenheittoCentigrade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="e#0#765#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/TestStringFormatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding />
         </state>
       </provider>
