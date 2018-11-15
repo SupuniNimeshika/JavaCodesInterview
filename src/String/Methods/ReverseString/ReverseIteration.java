@@ -14,6 +14,6 @@ public class ReverseIteration {
         for(int i=str.length()-1; i>=0; i--){
             reverse = reverse + str.charAt(i);
         }
-        System.out.print("Reverse String is:"+reverse);
+        System.out.print("Reverse String is:"+reverse );
     }
 }
