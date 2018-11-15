@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/CapitalizeEachWOrd.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/Palindrome/Iteration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/Palindrome/PalindromeChecker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/Palindrome/TestPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/ReverseEachWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/tOGGLEeachWord.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/AnagramString.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java" afterPath="$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,16 +28,6 @@
                 <element signature="n#!!doc" expanded="false" />
                 <element signature="e#0#765#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FactorialofaNumber.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FactorialofaNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -118,11 +102,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tOGGLEeachWord.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tOGGLEeachWord.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/tOGGLEeachWord.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
               <caret line="19" column="57" lean-forward="false" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AnagramString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String/AnagramString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -193,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/String/CapitalizeEachWOrd.java" />
         <option value="$PROJECT_DIR$/src/String/ReverseEachWord.java" />
         <option value="$PROJECT_DIR$/src/String/tOGGLEeachWord.java" />
+        <option value="$PROJECT_DIR$/src/String/AnagramString.java" />
       </list>
     </option>
   </component>
@@ -298,27 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.tOGGLEeachWord">
-    <configuration default="false" name="Iteration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="String.Methods.ReverseString.Palindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="String.Methods.ReverseString.Palindrome.Iteration" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaCodes" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.AnagramString">
     <configuration default="false" name="TestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -387,6 +362,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="String.tOGGLEeachWord" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaCodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AnagramString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="String.AnagramString" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -604,19 +599,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Iteration" />
-      <item index="1" class="java.lang.String" itemvalue="Application.TestPalindrome" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CapitalizeEachWOrd" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
-      <item index="4" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TestPalindrome" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CapitalizeEachWOrd" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
+      <item index="3" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AnagramString" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CapitalizeEachWOrd" />
-        <item index="3" class="java.lang.String" itemvalue="Application.TestPalindrome" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Iteration" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AnagramString" />
+        <item index="1" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CapitalizeEachWOrd" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -688,13 +683,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FactorialValue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="4" lean-forward="false" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RaisedToThePower.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1068,6 +1056,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="57" lean-forward="false" selection-start-line="19" selection-start-column="57" selection-end-line="19" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/AnagramString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
           <folding />
         </state>
       </provider>
