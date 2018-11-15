@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="644c8fe0-b029-414b-a464-7d2ee018b532" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/RemoveParticularCharacterFromaString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/String/CharacterPercentage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,16 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="TestStringFormatter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/TestStringFormatter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ReverseIteration.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/Methods/ReverseString/ReverseIteration.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -109,7 +99,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveParticularCharacterFromaString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RemoveParticularCharacterFromaString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/String/RemoveParticularCharacterFromaString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="273">
@@ -117,6 +107,19 @@
               <folding>
                 <element signature="e#180#181#0" expanded="true" />
                 <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharacterPercentage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/String/CharacterPercentage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#1578#1579#0" expanded="true" />
+                <element signature="e#1636#1637#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/String/tOGGLEeachWord.java" />
         <option value="$PROJECT_DIR$/src/String/AnagramString.java" />
         <option value="$PROJECT_DIR$/src/String/RemoveParticularCharacterFromaString.java" />
+        <option value="$PROJECT_DIR$/src/String/CharacterPercentage.java" />
       </list>
     </option>
   </component>
@@ -294,27 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RemoveParticularCharacterFromaString">
-    <configuration default="false" name="CapitalizeEachWOrd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="String.CapitalizeEachWOrd" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="JavaCodes" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.CharacterPercentage">
     <configuration default="false" name="ReverseEachWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -383,6 +367,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="String.RemoveParticularCharacterFromaString" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JavaCodes" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="CharacterPercentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="String.CharacterPercentage" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -600,19 +604,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CapitalizeEachWOrd" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
-      <item index="2" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AnagramString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RemoveParticularCharacterFromaString" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
+      <item index="1" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
+      <item index="2" class="java.lang.String" itemvalue="Application.AnagramString" />
+      <item index="3" class="java.lang.String" itemvalue="Application.RemoveParticularCharacterFromaString" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CharacterPercentage" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RemoveParticularCharacterFromaString" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AnagramString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
-        <item index="3" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CapitalizeEachWOrd" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CharacterPercentage" />
+        <item index="1" class="java.lang.String" itemvalue="Application.RemoveParticularCharacterFromaString" />
+        <item index="2" class="java.lang.String" itemvalue="Application.AnagramString" />
+        <item index="3" class="java.lang.String" itemvalue="Application.tOGGLEeachWord" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ReverseEachWord" />
       </list>
     </recent_temporary>
   </component>
@@ -684,13 +688,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/DigitReversed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SumOfEvenOdd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -1069,6 +1066,17 @@
           <folding>
             <element signature="e#180#181#0" expanded="true" />
             <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/String/CharacterPercentage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#1578#1579#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
           </folding>
         </state>
       </provider>
